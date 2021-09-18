@@ -35,7 +35,7 @@ private void initMots() {
     _mesMots = new String[6];
     _mesMots[0] = "velo";
     _mesMots[1] = "chien";
-    _mesMots[2] = "chatton";
+    _mesMots[2] = "chaton";
     _mesMots[3] = "voiture";
     _mesMots[4] = "ordinateur";
     _mesMots[5] = "landeau";
